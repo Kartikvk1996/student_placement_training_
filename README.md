@@ -6,7 +6,7 @@ Online portal trains students on Computer science core subjects like algorithms,
                      Pavan Dhumwad</br>
 <br>
 <h1>Login page </h1>
-![screenshot 41](https://user-images.githubusercontent.com/21128320/29214481-241ddf84-7ec5-11e7-8545-b554df1549fd.png)<br><br>
+https://user-images.githubusercontent.com/21128320/29214481-241ddf84-7ec5-11e7-8545-b554df1549fd.png<br><br>
 
 
 <h1>Home page</h1>
