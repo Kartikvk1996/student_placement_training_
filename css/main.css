@@ -1,0 +1,181 @@
+#title
+{
+    font-size: 20px;
+    color: white;
+    width: auto;
+    text-align: center;
+
+}
+
+#wp
+{
+    display: none;
+}
+
+#mailid,#password
+{
+    width: 100%;
+    border: solid black 1px;
+    border-radius: 4px;
+    padding: 6px;
+    transition: 0.7s;
+}
+
+#mailid:hover,#password:hover,#mailid:focus,#password:focus
+{
+    transition: 0.8s;
+    box-shadow: gray 3px 3px 3px;
+    padding: 6px;
+}
+
+#container
+{
+
+}
+
+#login
+{
+    padding: 6px;
+    border-radius: 4px;
+    width: 50%;
+    background-color: white;
+    border: solid 1px;
+    transition: 1s;
+    white-space: nowrap;
+}
+
+#login:hover,#login:focus
+{
+    background-color: #4CAF50;
+    transition: 0.5s;
+    color: white;
+}
+
+#fn,#ln,#email,#usn,#passwd,#confpass
+{
+    width: 100%;
+    border: solid black 1px;
+    border-radius: 4px;
+    padding: 6px;
+    transition: 0.7s;
+}
+
+#fn:hover,#ln:hover,#email:hover,#usn:hover,#passwd:hover,#confpass:hover,#fn:focus,#ln:focus,#email:focus,#usn:focus,#passwd:focus,#confpass:focus
+{
+    transition: 0.6s;
+    box-shadow: gray 3px 2px 3px;
+    padding: 6px;
+}
+
+#signup
+{
+    padding: 6px;
+    border-radius: 4px;
+    width: 107%;
+    background-color: white;
+    border: solid 1px;
+    transition: 1s;
+    white-space: nowrap;
+}
+
+
+
+#signup:hover,#signup:focus
+{
+    background-color: #4CAF50;
+    transition: 0.5s;
+    color: white;
+}
+
+#sem
+{
+    padding: 4px;
+    border-radius: 4px;
+    border: solid 1px;
+}
+a
+{
+    text-decoration: none;
+    font-size: large;
+    text-wrap: none;
+    text-align: center;
+    color: black;
+
+}
+
+
+#forgorpassword
+{
+    text-align: center;
+    transition: 1s;
+    font-size: 13px;
+    white-space: nowrap;
+}
+
+#forgorpassword:hover
+{
+    transition: 0.51s;
+    color: red;
+}
+
+#description
+{
+    float: left;
+    margin: 10% 10% 0 10%;
+    height: auto;
+    text-align: center;
+    animation-name: slide;
+    animation-duration: 2s;
+    animation-iteration-count: 1;
+    -moz-animation-name: slide;
+    -moz-animation-duration: 2s;
+    -moz-animation-iteration-count: 1;
+    -webkit-animation-name: slide;
+    -webkit-animation-duration: 2s;
+    -webkit-animation-iteration-count: 1;
+}
+
+@keyframes slide{
+    0%
+    {
+        margin-left: -100%;
+        margin-right: 100%;
+    }
+    100%
+    {
+        margin: 10% 10% 0 10%;
+    }
+
+}
+
+#form
+{
+
+}
+
+
+#wrapper
+{
+    width: 100%;
+    position: static;
+}
+
+header
+{
+    margin-top: -1%;
+    border-bottom: solid 2px lightgray;
+    background-color: #4CAF50;
+}
+
+body
+{
+    background-color: white;
+    border-bottom: solid 2px lightgray;
+
+}
+
+footer
+{
+    border-top: solid 2px lightgray;
+    background-color: #4CAF50;
+}

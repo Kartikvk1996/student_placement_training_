@@ -1,0 +1,50 @@
+
+#title
+{
+    font-size: 17px;
+    color: white;
+    width: auto;
+    text-align: center;
+
+}
+
+#wrapper
+{
+    width: 100%;
+    position: static;
+}
+
+header
+{
+    margin-top: -1%;
+    border-bottom: solid 2px lightgray;
+    background-color: #4CAF50;
+}
+
+body
+{
+    background-color: white;
+    border-bottom: solid 2px lightgray;
+
+}
+
+footer
+{
+    border-top: solid 2px lightgray;
+    background-color: #4CAF50;
+}
+
+a
+{
+    text-decoration: none;
+    font-size: large;
+    text-wrap: none;
+    text-align: center;
+    color: black;
+}
+
+
+.footer a
+{
+  font-size:15px;
+}
