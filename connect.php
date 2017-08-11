@@ -7,7 +7,7 @@ class connect
   // function sets connection to database
   function setconnection()
   {
-    $this->connection=mysqli_connect('localhost','root','2647','miniproject') or die("Failed to connect to server");
+    $this->connection=mysqli_connect('localhost',__user__,__passwd__,__schema__) or die("Failed to connect to server");
     //outputting the returned object
     //  print_r($this->connection) ;
   }
