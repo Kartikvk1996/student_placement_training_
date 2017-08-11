@@ -15,7 +15,7 @@ Online portal trains students on Computer science core subjects like algorithms,
 <h1>Manage profile</h1>
 <img src="https://user-images.githubusercontent.com/21128320/29214479-240f18e6-7ec5-11e7-91a9-0fe03bf3428c.png"><br><br>
 
-<h1>Students statistice</h1>
+<h1>Students statistics</h1>
 <img src="https://user-images.githubusercontent.com/21128320/29214480-241bb24a-7ec5-11e7-9b87-92e3f9117d50.png"><br><br>
 
 
