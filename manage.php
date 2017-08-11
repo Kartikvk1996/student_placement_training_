@@ -10,7 +10,7 @@ if(isset($_POST) && isset($_POST['login']))
   $username=$_POST['username'];
   $password=$_POST['password'];
 
-    if($username==="sptpadmin2016" && $password==="sptpadminlogin1888")
+    if($username===__admin_username__ && $password===__admin_password__)
     {
       $_SESSION['admin']="logged_to_sptp_as_admin";
       header("Location:sptpadmin.php");
